@@ -1,0 +1,6 @@
+xterm*faceName: Meslo LG L DZ for Powerline:size=12
+xterm*selectToClipboard: true
+xterm*termName: xterm-256color
+
+!#include ".Xresources.d/colors/base16-github-256.Xresources"
+#include ".Xresources.d/colors/base16-solarized-dark-256.Xresources"
