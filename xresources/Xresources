@@ -1,4 +1,4 @@
-xterm*faceName: Meslo LG L DZ for Powerline:size=12
+xterm*faceName: Meslo LG L DZ for Powerline:size=11
 xterm*selectToClipboard: true
 xterm*termName: xterm-256color
 
