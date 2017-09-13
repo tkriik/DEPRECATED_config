@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# fonts
+ln -sni $PWD/fonts/fonts.conf $HOME/.fonts.conf
+
 # i3
 mkdir -p $HOME/.config/i3
 mkdir -p $HOME/.config/i3status
