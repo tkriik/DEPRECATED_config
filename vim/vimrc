@@ -15,11 +15,14 @@ set undoreload=10000
 
 
 " Colors
-colorscheme base16-solarized-dark
-let g:solarized_termtrans=1
-let g:solarized_termcolors=256
-let g:airline_theme='solarized'
-set background=dark
+set t_Co=256
+set background=light
+colorscheme base16-github
+let g:airline_theme='silver'
+"let g:solarized_termtrans=1
+"let g:solarized_termcolors=256
+" let g:airline_theme='solarized'
+" set background=dark
 syntax on
 highlight Pmenu ctermbg=gray ctermfg=black
 highlight PmenuSel ctermbg=darkgray ctermfg=black

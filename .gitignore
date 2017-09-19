@@ -1,3 +1,5 @@
 vim/vim/undo/
 *.swp
 .git
+*.swn
+*.swo
