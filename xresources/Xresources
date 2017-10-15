@@ -1,5 +1,7 @@
-xterm*faceName: Meslo LG L for Powerline:size=10
+xterm*faceName: Meslo LG S for Powerline:size=9:hinting=hintslight
+
 xterm*selectToClipboard: true
 xterm*termName: xterm-256color
+xterm*scrollBar: false
 
 #include ".Xresources.d/colors/base16-solarized-dark-256.Xresources"
